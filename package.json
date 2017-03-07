@@ -1,0 +1,14 @@
+{
+  "name": "fable-loader",
+  "version": "0.0.1",
+  "author": "Matt Dziuban",
+  "description": "Fable loader module for webpack",
+  "dependencies": {
+    "fable-compiler": "^0.7.48"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrdziuban/fable-loader"
+  },
+  "license": "UNLICENSED"
+}
