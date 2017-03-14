@@ -1,0 +1,17 @@
+{
+  "name": "fable-compiler-loader-example",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Matt Dziuban",
+  "license": "UNLICENSED",
+  "scripts": {
+    "compile": "webpack --progress",
+    "serve": "http-server"
+  },
+  "dependencies": {
+    "fable-compiler-loader": "../",
+    "fable-core": "^0.7.28",
+    "http-server": "^0.9.0",
+    "webpack": "^2.2.1"
+  }
+}
